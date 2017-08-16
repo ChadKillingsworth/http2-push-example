@@ -1,0 +1,19 @@
+{
+  "name": "http2-push-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chadkillingsworth/http2-push-example.git"
+  },
+  "author": "Chad Killingsworth <chad.killingsworth@banno.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/chadkillingsworth/http2-push-example/issues"
+  },
+  "homepage": "https://github.com/chadkillingsworth/http2-push-example#readme",
+  "dependencies": {
+    "http2": "^3.3.6"
+  }
+}
